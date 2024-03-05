@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/faq-accordion/static/css/main.07d35a3b.css",
+    "main.js": "/faq-accordion/static/js/main.1ae42242.js",
+    "static/media/illustration-woman-online-mobile.svg": "/faq-accordion/static/media/illustration-woman-online-mobile.fe928f9c476ef6d33267.svg",
+    "static/media/bg-pattern-desktop.svg": "/faq-accordion/static/media/bg-pattern-desktop.f51e07a2f52390c60484.svg",
+    "index.html": "/faq-accordion/index.html",
+    "static/media/bg-pattern-mobile.svg": "/faq-accordion/static/media/bg-pattern-mobile.55aee9128a769eedabec.svg",
+    "main.07d35a3b.css.map": "/faq-accordion/static/css/main.07d35a3b.css.map",
+    "main.1ae42242.js.map": "/faq-accordion/static/js/main.1ae42242.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07d35a3b.css",
+    "static/js/main.1ae42242.js"
+  ]
+}
